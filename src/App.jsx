@@ -20,7 +20,7 @@ function App() {
   }]
   return (
     <>
-     <header style={{backgroundColor:'brown',textAlign:'center',padding:'20px',fontSize:'80px',color:'white'}}>Azriel Fgo Card</header>
+     <header style={{backgroundColor:'brown',textAlign:'center',padding:'20px',fontSize:'80px',fontFamily:'cursive',color:'white'}}>Azriel Fgo Card</header>
     <div style={{display: 'vertical-grid',
                 gridTemplateColumns: 'auto auto auto',
                 padding: '50px',
